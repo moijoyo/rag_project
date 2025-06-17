@@ -21,6 +21,4 @@ torch
 
 # Versi stabil untuk sentence-transformers (butuh ini)
 keras==2.11.0
-tensorflow==2.11.0
-tensorboard==2.11.0
 ml-dtypes==0.1.0
